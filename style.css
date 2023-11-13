@@ -157,3 +157,73 @@ background-repeat: no-repeat;
 background-position: left;
 
 }
+
+
+
+
+
+.bt1{
+
+text-decoration: none;
+text-align:center;
+
+color: white;
+border: 1px solid lightsalmon;
+
+background-image: linear-gradient(rgb(10, 8, 7),rgb(65, 43, 39));
+border-radius: 5px;
+margin: 10px 20px;
+padding: 10px;
+font-weight: 700;
+margin-left: 40%;
+
+}
+
+
+
+
+
+
+.single-experience{
+
+box-shadow: 10px 10px 40px gray;
+
+border-radius: 7px;
+
+height: 70%;
+
+/*tumi chaile ai Background color ta use korte paso */
+/*background-color:white; */
+
+}
+
+#full-stack{
+
+border-left: 7px solid ;
+
+border-image: linear-gradient(180deg, lightsalmon,tomato);
+border-image-slice: 1;
+
+
+}
+
+#baby{
+
+border-left:7px solid ;
+
+border-image: linear-gradient(180deg, blue, cyan);
+
+border-image-slice: 1;
+
+}
+
+
+.footer{
+
+text-align: center;
+
+margin-top: 20px;
+
+margin-bottom: 20px;
+
+}
